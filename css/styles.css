@@ -73,6 +73,12 @@ a:hover{
   margin: 40px auto 60px;
 }
 
+.contact-me{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 1.5rem;
+}
+
 .copyright{
   color: #EAF6F6;
   font-size: 0.75rem;
