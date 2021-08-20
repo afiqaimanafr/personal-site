@@ -77,6 +77,8 @@ a:hover{
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
   font-size: 1.5rem;
+  width:70%;
+  margin: auto;
 }
 
 .copyright{
